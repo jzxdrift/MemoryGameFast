@@ -52,7 +52,7 @@ int main()
 	//	showHint(1, inputValues);
 	//	showHint(2, inputValues);
 	//	//TODO: show grid with 2 guesses
-	//	//TODO: pause game, clean screen, start over
+	//	//TODO: pause game, clear screen, start over
 	//	//TODO: remove correctly guessed letters by replacing elements in array with ' ' and restricting access to them
 	//	//TODO: add game over logic
 	//}
